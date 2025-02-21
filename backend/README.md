@@ -10,6 +10,7 @@ CyberGraphGuard is a cybersecurity threat detection system backend built with **
 - **Authentication**: JWT (JSON Web Tokens)
 - **Networking & Alerts**: SMTP for email notifications
 
+
 ## Installation
 ### Prerequisites
 - Python 3.8+
