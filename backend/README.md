@@ -137,5 +137,4 @@ SMTP_PASS=your_email_password
 ## License
 This project is licensed under the MIT License.
 
----
-**Next Steps:** Implement ArangoDB integration and refine graph-based threat analysis.
+
