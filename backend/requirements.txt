@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-arango
+python-dotenv
+networkx
+joblib
+numpy
+jose
+passlib
+# smtplib is built into Python and does not need to be installed
